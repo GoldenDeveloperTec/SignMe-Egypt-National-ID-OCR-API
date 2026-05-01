@@ -148,10 +148,10 @@ Value	Document Type
 2	Passport / Residency
 
 ## Does it support Arabic text?
-Yes — full support for Arabic names, addresses, and fields.
+Yes - full support for Arabic names, addresses, and fields.
 
 ## Is it suitable for KYC?
-Yes — designed for fintech, banks, and onboarding systems.
+Yes - designed for fintech, banks, and onboarding systems.
 
 ## 🔐 Security
 HTTPS encrypted communication
