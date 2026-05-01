@@ -2,7 +2,7 @@
 
 A minimal Windows Forms application that demonstrates how to use the **SignMe API** to extract data from an Egyptian National ID card image.
 
-![screenshot placeholder](docs/screenshot.png)
+![screenshot placeholder](Screenshot.png)
 
 ## Prerequisites
 
