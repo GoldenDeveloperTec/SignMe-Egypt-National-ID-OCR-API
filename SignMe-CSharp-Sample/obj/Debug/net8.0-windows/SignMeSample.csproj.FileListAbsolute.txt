@@ -1,0 +1,17 @@
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\bin\Debug\net8.0-windows\SignMeSample.exe
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\bin\Debug\net8.0-windows\SignMeSample.deps.json
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\bin\Debug\net8.0-windows\SignMeSample.runtimeconfig.json
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\bin\Debug\net8.0-windows\SignMeSample.dll
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\bin\Debug\net8.0-windows\SignMeSample.pdb
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.AssemblyInfoInputs.cache
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.AssemblyInfo.cs
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.csproj.CoreCompileInputs.cache
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.sourcelink.json
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.dll
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\refint\SignMeSample.dll
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.pdb
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.genruntimeconfig.cache
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\ref\SignMeSample.dll
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.MainForm.resources
+F:\- My Projects\SignMe_SaaS\SignMe-CSharp-Sample\obj\Debug\net8.0-windows\SignMeSample.csproj.GenerateResource.cache
