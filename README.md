@@ -1,4 +1,4 @@
-# SignMe Egypt National ID OCR API
+# SignMe Free Egypt National ID OCR API
 
 Extract data from Egyptian National ID cards using a high-accuracy OCR API built for KYC, onboarding, and identity verification systems.
 
