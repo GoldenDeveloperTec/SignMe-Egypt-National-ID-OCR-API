@@ -44,10 +44,6 @@ ApiClient.cs          – HTTP wrapper (upload + poll)
 Models.cs             – JSON record types
 ```
 
-## API reference
-
-Full Swagger UI: **https://mobapi.signme.it/swagger**
-
 ## License
 
 MIT
